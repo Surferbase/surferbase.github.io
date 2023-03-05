@@ -1,0 +1,8 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /privacy-policy/
+Disallow: /terms-of-service/
+Disallow: /thank-you-for-newsletter-signup/
+Sitemap: https://surfable.io/sitemap.xml
